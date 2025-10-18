@@ -33,7 +33,6 @@ a {
 button,
 input {
   color: currentColor;
-  font-family: inherit;
   font-size: inherit;
   background: none;
   border: none;
