@@ -6,6 +6,9 @@
 *::after,
 *::before {
   box-sizing: border-box;
+  max-width: 100%;
+  /* word-wrap: break-word;
+  overflow-wrap: break-word; */
 }
 
 body {

@@ -18,7 +18,7 @@
       transparent 4px
     ),
     linear-gradient(#e7e7e7 0.01%, #1a1a1a);
-  --box-width: clamp(23.4375rem, 0rem + 100vw, 43.75rem);
+  --box-width: clamp(23.3125rem, 16.1602rem + 30.5164vw, 43.625rem);
   --label-outline-color: #fff;
   --accent-color: #000;
   --contour-color: #000;
